@@ -1,0 +1,34 @@
+.dice {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+
+    text-align: center;
+
+}
+
+.myButton {
+    width: 15em;
+    padding: 1.5em;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    background-color: #fcb1b1;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 3em;
+}
+
+.myButton:hover {
+    cursor: pointer;
+    background-color: #f0f696;
+    color: black;
+}
+
+.rolling {
+    background-color: #f0f696;
+    color: black;
+}
+
